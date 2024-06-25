@@ -1,0 +1,13 @@
+* {
+  font-family: poppins;
+  text-decoration: none !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-color:white;
+}
+
